@@ -1,0 +1,32 @@
+.header{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    width:380px;
+
+}
+.hello{
+    text-align: left;
+    font-size: 25px;
+    font-weight:bolder;
+    font-family: arial;
+}
+.color_box{
+    color:white;
+    background-color: red;
+    border-radius: 4px;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.jazzcash:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.birth{
+    color:grey;
+    font-size: small;
+}
